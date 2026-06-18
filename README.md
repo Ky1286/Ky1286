@@ -1,6 +1,6 @@
 Hi there,
 
-My name is Kenneth Kui, and I am York University alumni who majored in computer science.
+My name is Kenneth Kui, and I am a York University alumni who majored in computer science.
 I'm just a regular person who is passionate about coding and wants to take life one step at a time.
 
 This Github page was made to archive and document my time as a programmer and showcase what I have done
